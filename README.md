@@ -4,9 +4,10 @@ Principios del Cálculo de Presupuesto para www.ipiola
 1- Cómo calculamos el renglon variante o el item
 ==================================================================
 041212 - Hormigón de rampas m3 = $108.000
-         cemento - 90.000
-         arena   - 7,000
-         piedra  -  8,000
+
+         8 cemento - 90.000
+         0,7 arena   - 7,000
+         0,7 piedra  -  8,000
          
          1 Maestro - 8horas 1000
          2 Ayudantes 8horas 2000
