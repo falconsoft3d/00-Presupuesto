@@ -4,7 +4,8 @@ Principios del Cálculo de Presupuesto para www.ipiola
 1- Cómo calculamos el renglon variante o el item
 ==================================================================
 041212 - Hormigón de rampas m3 = $108.000
-     555121222333 - Acelerante k12  = 1000
+        
+         1 555121222333 - Acelerante k12  = 1000
      
          8 cemento - 89.000
          0,7 arena   - 6,000
